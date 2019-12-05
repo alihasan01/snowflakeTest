@@ -1,0 +1,1 @@
+select * from demo_db.PUBLIC.TBL_TWEETS_WORK
